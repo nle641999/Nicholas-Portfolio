@@ -370,4 +370,7 @@ img {
     color: #282828;
 }
 
-
+ul li a {
+    color:#fa5a5a; 
+    font-weight: bold;
+  }
